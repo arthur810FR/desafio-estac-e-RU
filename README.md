@@ -6,13 +6,13 @@ Este repositório contém dois desafios de programação que desenvolvi em Java.
 Este projeto simula o funcionamento de forma robusta uma máquina de estacionamento, com funcionalidades para:
 
 - Emitir tickets com um valor fixo de R$ 20,00.
-- 
+
 - Controlar se o ticket foi pago ou não.
-- 
+
 - Calcular valores adicionais baseados nas horas passadas no estacionamento.
-- 
+
 - Permitir o pagamento de tickets e consultar o saldo total recebido pelo estacionamento.
-- 
+
 **Funcionalidades:**
   
 1 - Solicitar Ticket: O sistema gera automaticamente um número de ticket aleatório com valor fixo de R$ 20,00.
