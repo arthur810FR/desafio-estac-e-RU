@@ -33,7 +33,7 @@ Este projeto simula o funcionamento de forma robusta uma máquina de estacioname
 
 ***Lombok*** (@Data para geração automática de getters e setters)
 
-============================================================================================
+===========================================================================
 
 ## ***Desafio 2: Cardápio Semanal do Restaurante Universitário (RU)*** 🍽️
 ###Descrição:
@@ -59,7 +59,7 @@ Este projeto implementa um sistema de cardápio semanal para o RU (Restaurante U
 
 ***Lombok*** (@Data para geração automática de getters e setters)
 
-============================================================================================
+===========================================================================
 
 ## ***Como Rodar os Projetos***
 1 - Clone o repositório:
