@@ -1,8 +1,8 @@
-#**Projetos de Programação - Estacionamento e Restaurante Universitário (RU)**
+# **Projetos de Programação - Estacionamento e Restaurante Universitário (RU)**
 Este repositório contém dois desafios de programação que desenvolvi em Java. Eles abordam conceitos importantes como orientação a objetos, coleções e boas práticas de código, sendo voltados para simular cenários reais de sistemas de gerenciamento.
 
-##***Desafio 1: Sistema de Estacionamento*** 🚗
-###Descrição:
+## ***Desafio 1: Sistema de Estacionamento*** 🚗
+### Descrição:
 Este projeto simula o funcionamento de forma robusta uma máquina de estacionamento, com funcionalidades para:
 
 - Emitir tickets com um valor fixo de R$ 20,00.
@@ -15,14 +15,18 @@ Este projeto simula o funcionamento de forma robusta uma máquina de estacioname
 3 - Pagamento de Ticket: O usuário pode pagar o ticket e o sistema confirma o pagamento.
 4 - Consulta de Valor: É possível consultar o saldo total das operações do estacionamento.
 **Tecnologias Utilizadas**:
+  
 ***Java***
+
 ***POO*** (Classes, Objetos, Métodos)
+
 ***Coleções*** (ArrayList)
+
 ***Lombok*** (@Data para geração automática de getters e setters)
 
-===============================================================================================================================================================================================================
+=================================================================================================================================
 
-##***Desafio 2: Cardápio Semanal do Restaurante Universitário (RU)*** 🍽️
+## ***Desafio 2: Cardápio Semanal do Restaurante Universitário (RU)*** 🍽️
 ###Descrição:
 Este projeto implementa um sistema de cardápio semanal para o RU (Restaurante Universitário), onde é possível cadastrar alimentos e montar refeições associadas a dias da semana e turnos (almoço e jantar).
 
@@ -32,14 +36,18 @@ Este projeto implementa um sistema de cardápio semanal para o RU (Restaurante U
 3 - Criação de Menu Diário: A refeição criada pode ser associada a um dia da semana e a um turno específico.
 4 - Exibição do Cardápio Semanal: O sistema exibe o cardápio completo, mostrando as refeições de cada dia e turno.
 **Tecnologias Utilizadas**:
+
 ***Java***
+
 ***POO*** (Classes, Objetos, Métodos)
+
 ***Coleções*** (ArrayList)
+
 ***Lombok*** (@Data para geração automática de getters e setters)
 
-===============================================================================================================================================================================================================
+=================================================================================================================================
 
-##***Como Rodar os Projetos***
+## ***Como Rodar os Projetos***
 1 - Clone o repositório:
 ```
 git clone https://github.com/seu-usuario/seu-repositorio.git
